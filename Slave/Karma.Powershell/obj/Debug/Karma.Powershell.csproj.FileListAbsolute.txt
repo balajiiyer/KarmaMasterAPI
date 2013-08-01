@@ -1,0 +1,5 @@
+C:\Git\Karma\Slave\Karma.Powershell\bin\Debug\Karma.Powershell.dll
+C:\Git\Karma\Slave\Karma.Powershell\bin\Debug\Karma.Powershell.pdb
+C:\Git\Karma\Slave\Karma.Powershell\obj\Debug\Karma.Powershell.csprojResolveAssemblyReference.cache
+C:\Git\Karma\Slave\Karma.Powershell\obj\Debug\Karma.Powershell.dll
+C:\Git\Karma\Slave\Karma.Powershell\obj\Debug\Karma.Powershell.pdb

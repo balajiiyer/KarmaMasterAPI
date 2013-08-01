@@ -1,0 +1,11 @@
+C:\Git\Karma\Common\CloudQueueing\bin\Debug\CloudQueueing.dll
+C:\Git\Karma\Common\CloudQueueing\bin\Debug\CloudQueueing.pdb
+C:\Git\Karma\Common\CloudQueueing\obj\Debug\CloudQueueing.csprojResolveAssemblyReference.cache
+C:\Git\Karma\Common\CloudQueueing\obj\Debug\CloudQueueing.dll
+C:\Git\Karma\Common\CloudQueueing\obj\Debug\CloudQueueing.pdb
+C:\Git\Karma\Common\CloudQueueing\bin\Debug\Newtonsoft.Json.dll
+C:\Git\Karma\Common\CloudQueueing\bin\Debug\Newtonsoft.Json.xml
+C:\Git\Karma\Common\CloudQueueing\bin\Debug\Karma.CloudAPI.dll
+C:\Git\Karma\Common\CloudQueueing\bin\Debug\Karma.CloudAPI.pdb
+C:\Git\Karma\Common\CloudQueueing\bin\Debug\KarmaCommon.dll
+C:\Git\Karma\Common\CloudQueueing\bin\Debug\KarmaCommon.pdb

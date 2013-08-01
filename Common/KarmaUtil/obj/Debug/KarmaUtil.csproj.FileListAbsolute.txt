@@ -1,0 +1,7 @@
+C:\Git\Karma\Common\KarmaUtil\obj\Debug\KarmaUtil.csprojResolveAssemblyReference.cache
+C:\Git\Karma\Common\KarmaUtil\bin\Debug\KarmaUtil.dll
+C:\Git\Karma\Common\KarmaUtil\bin\Debug\KarmaUtil.pdb
+C:\Git\Karma\Common\KarmaUtil\obj\Debug\KarmaUtil.dll
+C:\Git\Karma\Common\KarmaUtil\obj\Debug\KarmaUtil.pdb
+C:\Git\Karma\Common\KarmaUtil\bin\Debug\Newtonsoft.Json.dll
+C:\Git\Karma\Common\KarmaUtil\bin\Debug\Newtonsoft.Json.xml

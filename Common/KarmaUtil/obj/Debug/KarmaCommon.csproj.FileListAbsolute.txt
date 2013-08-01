@@ -1,0 +1,9 @@
+C:\Git\Karma\Common\KarmaUtil\bin\Debug\Karma.CloudAPI.dll
+C:\Git\Karma\Common\KarmaUtil\bin\Debug\Newtonsoft.Json.dll
+C:\Git\Karma\Common\KarmaUtil\bin\Debug\Karma.CloudAPI.pdb
+C:\Git\Karma\Common\KarmaUtil\bin\Debug\Newtonsoft.Json.xml
+C:\Git\Karma\Common\KarmaUtil\obj\Debug\KarmaCommon.csprojResolveAssemblyReference.cache
+C:\Git\Karma\Common\KarmaUtil\bin\Debug\KarmaCommon.dll
+C:\Git\Karma\Common\KarmaUtil\bin\Debug\KarmaCommon.pdb
+C:\Git\Karma\Common\KarmaUtil\obj\Debug\KarmaCommon.dll
+C:\Git\Karma\Common\KarmaUtil\obj\Debug\KarmaCommon.pdb
